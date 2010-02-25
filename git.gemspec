@@ -33,7 +33,7 @@ Gem::Specification.new do |s|
      "lib/git/status.rb",
      "lib/git/working_directory.rb"
   ]
-  s.homepage = %q{http://github.com/schacon/ruby-git}
+  s.homepage = %q{http://github.com/narma/ruby-git}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.requirements = ["git 1.6.0.0, or greater"]
